@@ -56,7 +56,7 @@ result = viterbi(observations,
                  transition_probability,
                  emission_probatility)
 
-
+# >>> (0.031103999999999993, ['sunny', 'sunny', 'sunny'])
 
 
 
