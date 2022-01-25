@@ -61,37 +61,3 @@ word_sentence_list = ws(
 
 
 print(word_sentence_list)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
